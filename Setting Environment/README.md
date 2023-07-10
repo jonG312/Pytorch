@@ -1,4 +1,4 @@
 <h1 align = center> Pytorch Installation</h1>
 
-#installing pytorch in Windows
+<p>installing pytorch in Windows</p>
 `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117`
