@@ -132,5 +132,6 @@ Output:
 Feature batch shape: torch.Size([64, 1, 28, 28])
 Labels batch shape: torch.Size([64])
 ```
+<p align="left"> <img src="https://github.com/jonG312/Pytorch/blob/main/Datasets%20%26%20DataLoaders/images/img-1.png"  alt="display image" /> </p>
 
 
