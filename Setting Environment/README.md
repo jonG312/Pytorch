@@ -72,7 +72,7 @@ conda install ipykernel
 ```
 python -m ipykernel install --user --name pytorch --display "pytorch"
 ```
-**Open Jupyter Notebook
+**Open Jupyter Notebook**
 ```
 jupyter notebook
 ```
